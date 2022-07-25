@@ -6,6 +6,17 @@
 
 <br />
 
+# 🎯 Mission and Values 
 
-🙋‍♀️ A short introduction - NimbleBox.ai, a Techstars portfolio company, is a Full-Stack MLOps platform. NimbleBox's infrastructure is built for large datasets and quick training so you can deploy fast while maintaining accuracy
+Make AI accessible to everyone by making the barrier to entry almost negligible. NimbleBox wants to democratise AI.
+
+Imagine a world where K-12 students to experienced professionals are learning to code and trying to implement it in their daily workflow — that’s today. Now imagine a world where everyone is trying to learn and implement AI in their daily workflow — that’s the future we at NimbleBox envision.
+
+# 🏡 Know Our Team
+
+Nimblebox first came as an idea to help our founders fix a problem they were all dealing with. Why was setting up an AI environment such a hassle on traditional cloud platforms?
+
+Since then we've built a team of talented people who are helping to enable more and more data scientist to setup AI environments with the best features.
+
+#### NimbleBox.ai, a Techstars portfolio company, is a Full-Stack MLOps platform. NimbleBox's infrastructure is built for large datasets and quick training so you can deploy fast while maintaining accuracy.
 
